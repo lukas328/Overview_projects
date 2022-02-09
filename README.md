@@ -21,7 +21,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 Im Rahmen der Bachelorarbeit wurde eine Möglichkeit zur Vorhersage von Intralogistischen Bestellzahlen mittels Deep Learning untersucht.<br> 
 Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Zeitschritten, eine Prognose für die zu erwartenden Auftragsdaten zu <br>erstellen, was die Ressourcenplanung im Lager nachhaltig optimieren und automatisieren sollte.<br>
 Als Trainingsgrundlage wurden in der Logistik gesammelte historische Daten verwendet.<br>
-Die Systematische Bearbeitung der Problemstellung orientierte sich wurde sich dabei am CRISP-DM, ein Vorgehensmodell für Data-Mining Projekte. <br>
+Die Systematische Bearbeitung der Problemstellung orientierte sich wurde sich dabei am CRISP-DM, ein Vorgehensmodell für Data-Mining Projekte. 
 Mit erfolgreicher Analyse und Modellierung, konnten schlussendlich die besten Ergebnisse mittels einen LSTM-CNN Architektur erreicht werden.<br>
 Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten und im Live-Betreib Betrug 9%, zum Vergleich betrug die MAPE der Naiven-Prognose <br>23% und der vorher genutzten Prognose 20% 
 

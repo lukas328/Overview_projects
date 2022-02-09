@@ -19,7 +19,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <br><br>
 Im Rahmen der Bachelorarbeit wurde die Vorhersage von Intralogistischen Bestellzahlen untersucht.
 Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Tage eine Ziel genuae Prognose zuerstellen.
-Für die Umsetzung wurden die historischen Daten verschiedenster Datenreihen betrachtet und mithilfe von Mehtoden ausdem Deep Learning Bereich Untersucht.
+Für die Umsetzung wurden die historischen Daten verschiedenster Datenreihen betrachtet und mithilfe von Mehtoden ausdem Deep Learning Bereich Untersucht. Methodisch wurde sich dabei am CRISP-DM orintiert, ein Vorgehensmodell für die Umsetzung von Datenorintierten Projekten 
 Schlussendlich konnten die besten Ergebnisse mit einen LSTM-CNN Modell erreicht werden und die Auftragsdaten mit einer Mittleren Prozentualen Abweichung von 9% bei einer Vorlaufzeit von 7 Zeitschritten Vorhergesat werden. 
 Zum Vergleich betrug die Abweichung der Naiven-Prognose 23% und die einer Prognose welche Größtenteils auf Erfahrungswerten beruhte 20% 
 <br>
@@ -39,7 +39,7 @@ Password: <br>
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br><u>Datum: 18. November 2021</u>
 <br><br>
--Projekt 1
+Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Für das Bestehen des Moduls konnte dabei eine frei wählbare Fragestellung aus der Data-Science Domäne gewählt werden. Dabei wurde sich für eine Problemstellung aus der NLP Domäne entschiedne und probiert Zielgenauere reden zu geniereren mit dem Training anhand von veröffentlichten Plenarprotokollen. Für eine Systematische Umsetzung des Projektes wurde sich am DASC-PM orinitert, ein Vorgehensmodell für die Umsetzung von Datenorintierten Projekten. 
 <br>
 
 <br><br>

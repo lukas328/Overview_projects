@@ -24,6 +24,7 @@ Schlussendlich konnten die besten Ergebnisse mit einen LSTM-CNN Modell erreicht 
 Zum Vergleich betrug die Abweichung der Naiven-Prognose 23% und die einer Prognose welche Größtenteils auf Erfahrungswerten beruhte 20% 
 <br>
 
+<br><br>
 <b>OOP Swift -IOS-APP Daisy</b>
 <br><u> Datum: 31. Januar 2021</u>
 <br><br>
@@ -34,13 +35,14 @@ Benutzername:<br>
 Password: <br>
 <br>
 
+<br><br>
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br><u>Datum: 18. November 2021</u>
 <br><br>
 -Projekt 1
 <br>
 
-
+<br><br>
 <b>Hate Speech Klassifizierung </b>
 <br><u> Datum: 07. Dezember 2020</u>
 <br><br>

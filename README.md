@@ -16,7 +16,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <b>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning </b>
 <br>
 <U>Datum: 02. Februar 2022</U>
-<br>
+<br><br>
 Im Rahmen der Bachelorarbeit wurde die Vorhersage von Intralogistischen Bestellzahlen untersucht.
 Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Tage eine Ziel genuae Prognose zuerstellen.
 Für die Umsetzung wurden die historischen Daten verschiedenster Datenreihen betrachtet und mithilfe von Mehtoden ausdem Deep Learning Bereich Untersucht.
@@ -26,7 +26,7 @@ Zum Vergleich betrug die Abweichung der Naiven-Prognose 23% und die einer Progno
 
 <b>OOP Swift -IOS-APP Daisy</b>
 <br><u> Datum: 31. Januar 2021</u>
-<br>
+<br><br>
 Im Projekt Daisy wurde eine IOS App erstellt, welche die Plannung von Uni-Internen Veranstalugen oder Privaten Treffen im Vordergrund ermöglicht.
 Die App ist frei zum Download verfügbar: <br>
 Zum testen können die folgenden Daten verwendet werden<br>
@@ -36,14 +36,14 @@ Password: <br>
 
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br><u>Datum: 18. November 2021</u>
-<br>
+<br><br>
 -Projekt 1
 <br>
 
 
 <b>Hate Speech Klassifizierung </b>
 <br><u> Datum: 07. Dezember 2020</u>
-<br>
+<br><br>
 Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Kalassifizierung von Hass-Rede im Internet behandelt.<br>
 Als Datengrundalge diente verschiedene Datensätze mit Hass Kommentaren auf Twitter.<br>
 In Laufe des Projektes wurde ein Paper erstellt, welches die Verwendbarkeit von verschiednen Machine-Learning und Deep-Learning Methoen für die Problemstellung<br> untersucht. 

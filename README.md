@@ -17,19 +17,26 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <b>Hate Speech Klassifizierung </b>
 <br> Datum: 07. Dezember 2020
 <br>
--Projekt 1
+Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Kalassifizierung von Hass-Rede im Internet behandelt.<br>
+Als Datengrundalge diente verschiedene Datensätze mit Hass Kommentaren auf Twitter.<br>
+In Laufe des Projektes wurde ein Paper erstellt, welches die Verwendbarkeit von verschiednen Machine-Learning und Deep-Learning Methoen für die Problemstellung<br> untersucht. 
+Die Besten Ergebisse konnten mit den Einsatzes eines PreTrained Word-Embedding und eines Mehrschichtigen-LSTMs erzielt werden. <br>
 <br>
 
 <b>OOP- Swift -IOS-APP Daisy</b>
 <br> Datum: 31. Januar 2021
 <br>
--Projekt 1
+Im Projekt Daisy wurde eine IOS App erstellt, welche die Plannung von Uni-Internen Veranstalugen oder Privaten Treffen im Vordergrund steht.
+Die App ist frei zum Download verfügbar: 
+Zum testen können die folgenden Daten verwendet werden
+Benutzername:
+Password: 
 <br>
 
 <b>Stammdaten Mapping / Integration </b>
 <br>Datum: 31. Juni 2021 
 <br>
--Projekt 1
+Im Zuge einer Umstellung des verwendeten SAP-Systems, best
 <br>
 
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
@@ -45,18 +52,3 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 -Projekt 1
 <br>
 
-<p style="text-align: justify; margin-left:50px; margin-right:50px">Der Absatz,
-den Sie gerade lesen, wurde mit <b>text-align</b> als Blocksatz ausgerichtet.
-Ferner wurde ein Rand von 50px eingestellt, just for fun oder auch,
-damit Sie sehen, wie die einzelnen Stylesheet-Angaben zusammenspielen.<br>
-Noch eine Textzeile<br>
-Noch eine Textzeile</p>
-<p style=[B]"margin-left[/B]:30px;">
-  Text...
-	asd
-	dasd
-</p>
-
-	<a href="/" style="padding-left:20px; display:block; ">
-		Hallo Leute, dies ist eine Zeile mit Umbruch.
-	</a>

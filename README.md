@@ -15,7 +15,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 
 <b>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning </b>
 <br>
-<u>Datum: 02. Februar 2022</u>
+<U>Datum: 02. Februar 2022</U>
 <br>
 -Projekt 1
 <br>

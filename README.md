@@ -1,5 +1,6 @@
 # Overview_projects
 
-Das Git-Repository soll eine Übersicht von mir in der Vergangenheit umgesetzter Projekte darstellen.
-Ein Großteil der Projekte wurden im Zuge verschiedner Wahlpflichtmodule im Studium zum Wirtschaftsingenieur erstellt 
-oder im Pirvaten Bereich umgesetzt. 
+Das Git-Repository soll eine Übersicht von mir in der Vergangenheit erstellte Projekte darstellen.<br><br>x
+
+Größtenteils wurden die Projekte im Zuge des wirtschaftsingenieurwesen-Studium oder in der Freizeit umgesetzt. <br>
+

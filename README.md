@@ -14,30 +14,31 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 </ul>
 <hr>
 
-<b>Hate Speech Klassifizierung, 07.Dezember 2020 </b>
-<br>
+<b>Hate Speech Klassifizierung </b>
+<br>Datum: 07.Dezember 2020
+
 -Projekt 1
 <br>
 
-<b>OOP- Swift -IOS-APP Daisy, 31.Januar 2021</b>
-<br>
--Projekt 1
-<br>
-
-
-<b>Generierung von politischen Reden, anhand von Plenarprotokollen, 18.November 2021</b>
-<br>
+<b>OOP- Swift -IOS-APP Daisy</b>
+<br>Datum: 31.Januar 2021
 -Projekt 1
 <br>
 
 
-<b>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning, 02.Februar 2022</b>
-<br>
+<b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
+<br>Datum: 18.November 2021
 -Projekt 1
 <br>
 
-<b>Stammdaten Mapping / Integration, 31.Juni 2021</b>
+
+<b>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning </b>
+<br>Datum: 02.Februar 2022
+-Projekt 1
 <br>
+
+<b>Stammdaten Mapping / Integration </b>
+<br>Datum:31.Juni 2021 
 -Projekt 1
 <br>
 

@@ -31,7 +31,7 @@ Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten 
 <b>OOP Swift IOS-APP Daisy</b>
 <br><u> Datum: 31. Januar 2021</u>
 <br><br>
-Im Projekt Daisy wurde eine IOS-App erstellt, welche die Planung und Durchführung von Veranstaltungen oder Privaten Treffen vereinfachen sollte.<br> Die App steht frei zum Download im App-Store zur verfügbar: https://apps.apple.com/de/app/daisy-nice-to-meet-you/id1558549012?l=en <br>
+Im Projekt Daisy wurde eine IOS-App erstellt, welche die Planung und Durchführung von Veranstaltungen oder Privaten Treffen vereinfachen sollte. Die App steht frei zum Download im App-Store zur verfügbar: https://apps.apple.com/de/app/daisy-nice-to-meet-you/id1558549012?l=en <br>
 Die App wurde mit Swift erstellt und Firestore als Datenbank verwendet (Document-based)<br>
 
 Zum Testen können die folgenden Daten verwendet werden<br>

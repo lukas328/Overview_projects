@@ -8,7 +8,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <ul>
   <li>	Zeitreihenanalyse von Intralogistischen Auftragsdaten mittels Deep-Learning</li>
   <li>	IOS-APP Daisy</li>
-  <li>	Generierung von politischen Reden anhand von Plenarprotokollen</li>
+  <li>	Text Generierung von politischen Reden</li>
   <li>	Hate-Speech Klassifizierung</li>
 </ul>
 <hr>
@@ -48,10 +48,10 @@ Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Da
 <br>
 <br>
 <br>
-<b>Hate Speech Klassifizierung </b>
+<b>Hate-Speech Klassifizierung </b>
 <br><u> Datum: 07. Dezember 2020</u>
 <br><br>
-Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Klassifizierung von Hass-Rede im Internet behandelt.<br> Als Datengrundalge diente verschiedene Datensätze mit Hass Kommentaren auf Twitter.<br>
+Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Klassifizierung von Hass-Rede im Internet behandelt.<br> Als Datengrundlage dienten verschiedene Datensätze mit Hate-Tweets.<br>
 
 Die Hauptaufgabe war das Erstellen eines wissenschaftlichen Papers, wodurch weniger Gewichtung auf das Programm als solche gelegt worden ist und die Wissenschaftliche Arbeit im Vordergrund stand.
 Das erstellte Paper, Untersucht die Performance unterschieden von verschiedenen Methoden des Machine-Learning und des Deep-Learning.<br>

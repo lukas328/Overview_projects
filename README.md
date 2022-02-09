@@ -5,10 +5,10 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <hr>
 <p> <b>Gliederung</b>
 <ul>
-  <li>Hate Speech Detection</li>
+  <li>Hate Speech Klassifizierung</li>
   <li>IOS-APP Daisy</li>
   <li>Generierung von politischen Reden anhand von Plenarprotokollen</</li>
-  <li>Zeitreihenanlyse von Intralgistischen Auftragsdaten</li>
+  <li>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning</li>
   <li>Preprocessing und Qualitätsprüfung von multivaraiten Zeitreihen</li>
   <li>Stammdaten Mapping / Integration</li>
 </ul>
@@ -19,24 +19,24 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 -Projekt 1
 <br>
 
-<b>OOP- Swift -IOS-APP Daisy</b>
+<b>OOP- Swift -IOS-APP Daisy, 31.Januar 2021</b>
 <br>
 -Projekt 1
 <br>
 
 
-<b>Generierung von politischen Reden anhand von Plenarprotokollen</b>
+<b>Generierung von politischen Reden, anhand von Plenarprotokollen, 18.November 2021</b>
 <br>
 -Projekt 1
 <br>
 
 
-<b>time-series analysis with deep learning</b>
+<b>Zeitreihenanlyse von Intralogistischen Auftragsdaten mittels Deep-Learning, 02.Februar 2022</b>
 <br>
 -Projekt 1
 <br>
 
-<b>time-series analysis with deep learning</b>
+<b>Stammdaten Mapping / Integration, 31.Juni 2021</b>
 <br>
 -Projekt 1
 <br>

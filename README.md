@@ -53,7 +53,7 @@ Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Da
 <br><br>
 Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Klassifizierung von Hass-Rede im Internet behandelt.<br> Als Datengrundalge diente verschiedene Datensätze mit Hass Kommentaren auf Twitter.<br>
 
-Die Hauptaufgabe war das Erstellen eines wissenschaftlichen Papers, wodurch weniger Gewichtung auf das Programm als solche gelegt worden ist und die <br>Wissenschaftliche Arbeit im Vordergrund stand.
+Die Hauptaufgabe war das Erstellen eines wissenschaftlichen Papers, wodurch weniger Gewichtung auf das Programm als solche gelegt worden ist und die Wissenschaftliche Arbeit im Vordergrund stand.
 Das erstellte Paper, Untersucht die Performance unterschieden von verschiedenen Methoden des Machine-Learning und des Deep-Learning.<br>
 Die Besten Ergebnisse konnten mit dem Einsatze eines PreTrained Word-Embedding in Verbindung mit einem Mehrschichtigen-LSTM erzielt werden.<br>
 <br>

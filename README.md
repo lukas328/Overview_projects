@@ -45,4 +45,10 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 -Projekt 1
 <br>
 
-
+<p style="text-align: justify; margin-left:50px; margin-right:50px">Der Absatz,
+den Sie gerade lesen, wurde mit <b>text-align</b> als Blocksatz ausgerichtet.
+Ferner wurde ein Rand von 50px eingestellt, just for fun oder auch,
+damit Sie sehen, wie die einzelnen Stylesheet-Angaben zusammenspielen.<br>
+Noch eine Textzeile<br>
+Noch eine Textzeile</p>
+ 

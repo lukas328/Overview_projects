@@ -24,7 +24,7 @@ Schlussendlich konnten die besten Ergebnisse mit einen LSTM-CNN Modell erreicht 
 Zum Vergleich betrug die Abweichung der Naiven-Prognose 23% und die einer Prognose welche Größtenteils auf Erfahrungswerten beruhte 20% 
 <br>
 
-<br><br>
+<br>
 <b>OOP Swift -IOS-APP Daisy</b>
 <br><u> Datum: 31. Januar 2021</u>
 <br><br>
@@ -35,14 +35,14 @@ Benutzername:<br>
 Password: <br>
 <br>
 
-<br><br>
+<br>
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br><u>Datum: 18. November 2021</u>
 <br><br>
 Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Für das Bestehen des Moduls konnte dabei eine frei wählbare Fragestellung aus der Data-Science Domäne gewählt werden. Dabei wurde sich für eine Problemstellung aus der NLP Domäne entschiedne und probiert Zielgenauere reden zu geniereren mit dem Training anhand von veröffentlichten Plenarprotokollen. Für eine Systematische Umsetzung des Projektes wurde sich am DASC-PM orinitert, ein Vorgehensmodell für die Umsetzung von Datenorintierten Projekten. 
 <br>
 
-<br><br>
+<br>
 <b>Hate Speech Klassifizierung </b>
 <br><u> Datum: 07. Dezember 2020</u>
 <br><br>

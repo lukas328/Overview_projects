@@ -46,14 +46,14 @@ Password: imunsafe<br>
 Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Dabei wurde eine Problemstellung aus der NLP Domäne behandelt und probiert <br>politische reden zu generieren, anhand bereits veröffentlichten Plenarprotokollen des Bundestages. Für eine Systematische Umsetzung des Projektes wurde sich <br>am DASC-PM orientiert, ein Vorgehensmodell für die Umsetzung von Projekten im Bereich Data-Science.
  
 <br>
-
+<br>
 <br>
 <b>Hate Speech Klassifizierung </b>
 <br><u> Datum: 07. Dezember 2020</u>
 <br><br>
 Für das Modul "Einführung in die Künstliche Intelligenz" wurde das Problem der Klassifizierung von Hass-Rede im Internet behandelt.<br> Als Datengrundalge diente verschiedene Datensätze mit Hass Kommentaren auf Twitter.<br>
 
-Die Hauptaufgabe war das Erstellen eines wissenschaftlichen Papers, wodurch weniger Gewichtung auf das Programm als solche gelegt worden ist und die <br>Wissenschaftliche Arbeit im Vordergrund stand. <br>
+Die Hauptaufgabe war das Erstellen eines wissenschaftlichen Papers, wodurch weniger Gewichtung auf das Programm als solche gelegt worden ist und die <br>Wissenschaftliche Arbeit im Vordergrund stand.
 Das erstellte Paper, Untersucht die Performance unterschieden von verschiedenen Methoden des Machine-Learning und des Deep-Learning.<br>
 Die Besten Ergebnisse konnten mit dem Einsatze eines PreTrained Word-Embedding in Verbindung mit einem Mehrschichtigen-LSTM erzielt werden.<br>
 <br>

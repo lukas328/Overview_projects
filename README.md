@@ -26,6 +26,11 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 -Projekt 1
 <br>
 
+<b>Stammdaten Mapping / Integration </b>
+<br>Datum: 31. Juni 2021 
+<br>
+-Projekt 1
+<br>
 
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br>Datum: 18. November 2021
@@ -40,9 +45,4 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 -Projekt 1
 <br>
 
-<b>Stammdaten Mapping / Integration </b>
-<br>Datum: 31. Juni 2021 
-<br>
--Projekt 1
-<br>
 

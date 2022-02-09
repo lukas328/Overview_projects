@@ -23,7 +23,7 @@ Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens
 Als Trainingsgrundlage wurden in der Logistik gesammelte historische Daten verwendet.<br>
 Die  Bearbeitung der Problemstellung orientierte sich dabei am CRISP-DM, ein Vorgehensmodell für Data-Mining Projekte. 
 Mit erfolgreicher Analyse und Modellierung, konnten schlussendlich die besten Ergebnisse mittels einen LSTM-CNN Architektur erreicht werden.<br>
-Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten und im Live-Betreib Betrug 9%, zum Vergleich betrug der MAPE der Naiven-Prognose 23% und der, der vorher genutzten Prognose 20% 
+Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten und im Live-Betreib Betrug 9%, zum Vergleich betrug der MAPE der Naiven-Prognose 23% und der, der vorher genutzten Prognose 20%.
 
 <br>
 
@@ -32,7 +32,7 @@ Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten 
 <br><u> Datum: 31. Januar 2021</u>
 <br><br>
 Im Projekt Daisy wurde eine IOS-App erstellt, welche die Planung und Durchführung von Veranstaltungen oder Privaten Treffen vereinfachen sollte.<br> Die App steht frei zum Download im App-Store zur verfügbar: https://apps.apple.com/de/app/daisy-nice-to-meet-you/id1558549012?l=en <br>
-Die App wurde mit Swift erstellt und Firestore als Datenbank verwendet (Document-based)<br>
+Die App wurde mit Swift erstellt und Firestore als Datenbank verwendet. (Document-based)<br>
 
 Zum Testen können die folgenden Daten verwendet werden<br>
 Benutzername: test1@test.de<br>

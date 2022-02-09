@@ -43,7 +43,7 @@ Password: imunsafe<br>
 <b>Generierung von politischen Reden, anhand von Plenarprotokollen</b>
 <br><u>Datum: 18. November 2021</u>
 <br><br>
-Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Dabei wurde eine Problemstellung aus der NLP Domäne behandelt und probiert <br>politische reden zu generieren, anhand bereits veröffentlichten Plenarprotokollen des Bundestages. Für eine Systematische Umsetzung des Projektes wurde sich <br>am DASC-PM orientiert, ein Vorgehensmodell für die Umsetzung von Projekten im Bereich Data-Science.
+Das Projekt wurde im Zuge des Moduls "Data-Science in application" umgesetzt. Dabei wurde eine Problemstellung aus der NLP Domäne behandelt und probiert politische reden zu generieren, anhand bereits veröffentlichten Plenarprotokollen des Bundestages. Für eine Systematische Umsetzung des Projektes wurde sich am DASC-PM orientiert, ein Vorgehensmodell für die Umsetzung von Projekten im Bereich Data-Science.
  
 <br>
 <br>

@@ -5,30 +5,38 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <hr>
 <p> <b>Gliederung</b>
 <ul>
-  <li>So funktioniert HTML</li>
-  <li>Wichtige HTML-Elemente</li>
-  <li>Gestalten mit CSS</li>
+  <li>Hate Speech Detection</li>
+  <li>IOS-APP Daisy</li>
+  <li>Generierung von politischen Reden anhand von Plenarprotokollen</</li>
+  <li>Zeitreihenanlyse von Intralgistischen Auftragsdaten</li>
+  <li>Preprocessing und Qualitätsprüfung von multivaraiten Zeitreihen</li>
+  <li>Stammdaten Mapping / Integration</li>
 </ul>
 <hr>
 
-<b>Gliederung</b>
+<b>Hate Speech Klassifizierung, 07.Dezember 2020 </b>
 <br>
 -Projekt 1
 <br>
 
-<b>Gliederung</b>
-<br>
--Projekt 1
-<br>
-
-
-<b>Gliederung</b>
+<b>OOP- Swift -IOS-APP Daisy</b>
 <br>
 -Projekt 1
 <br>
 
 
-<b>Gliederung</b>
+<b>Generierung von politischen Reden anhand von Plenarprotokollen</b>
+<br>
+-Projekt 1
+<br>
+
+
+<b>time-series analysis with deep learning</b>
+<br>
+-Projekt 1
+<br>
+
+<b>time-series analysis with deep learning</b>
 <br>
 -Projekt 1
 <br>

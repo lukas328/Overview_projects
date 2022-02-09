@@ -17,7 +17,11 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <br>
 <U>Datum: 02. Februar 2022</U>
 <br>
--Projekt 1
+Im Rahmen der Bachelorarbeit wurde die Vorhersage von Intralogistischen Bestellzahlen untersucht.
+Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Tage eine Ziel genuae Prognose zuerstellen.
+Für die Umsetzung wurden die historischen Daten verschiedenster Datenreihen betrachtet und mithilfe von Mehtoden ausdem Deep Learning Bereich Untersucht.
+Schlussendlich konnten die besten Ergebnisse mit einen LSTM-CNN Modell erreicht werden und die Auftragsdaten mit einer Mittleren Prozentualen Abweichung von 9% bei einer Vorlaufzeit von 7 Zeitschritten Vorhergesat werden. 
+Zum Vergleich betrug die Abweichung der Naiven-Prognose 23% und die einer Prognose welche Größtenteils auf Erfahrungswerten beruhte 20% 
 <br>
 
 <b>OOP Swift -IOS-APP Daisy</b>

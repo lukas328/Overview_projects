@@ -19,7 +19,7 @@ Größtenteils wurden die Projekte im Zuge des Wirtschaftsingenieurwesen Studium
 <U>Datum: 02. Februar 2022</U>
 <br><br>
 Im Rahmen der Bachelorarbeit wurde eine Möglichkeit zur Vorhersage von Intralogistischen Bestellzahlen mittels Deep Learning untersucht.<br> 
-Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Zeitschritten, eine Prognose für die zu erwartenden Auftragsdaten zu <br>erstellen, was die Ressourcenplanung im Lager nachhaltig optimieren und automatisieren sollte.<br>
+Die Konkrete Problemstellung bestand darin mit einer Vorlauf Zeit von mindestens 7-Zeitschritten, eine Prognose für die zu erwartenden Auftragsdaten zu erstellen, was die Ressourcenplanung im Lager nachhaltig optimieren und automatisieren sollte.<br>
 Als Trainingsgrundlage wurden in der Logistik gesammelte historische Daten verwendet.<br>
 Die Systematische Bearbeitung der Problemstellung orientierte sich wurde sich dabei am CRISP-DM, ein Vorgehensmodell für Data-Mining Projekte. 
 Mit erfolgreicher Analyse und Modellierung, konnten schlussendlich die besten Ergebnisse mittels einen LSTM-CNN Architektur erreicht werden.<br>
@@ -33,7 +33,7 @@ Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten 
 <br><br>
 Im Projekt Daisy wurde eine IOS-App erstellt, welche die Planung und Durchführung von Veranstaltungen oder Privaten Treffen vereinfachen sollte.<br> Die App steht frei zum Download im App-Store zur verfügbar: https://apps.apple.com/de/app/daisy-nice-to-meet-you/id1558549012?l=en <br>
 Die App wurde mit Swift erstellt und Firestore als Datenbank verwendet (Document-based)<br>
-<br>
+
 Zum Testen können die folgenden Daten verwendet werden<br>
 Benutzername: test1@test.de<br>
 Password: imunsafe<br>

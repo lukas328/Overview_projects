@@ -24,7 +24,7 @@ Als Trainingsgrundlage wurden historische Daten und kennzahlen aus der Logistik 
 Die  Bearbeitung der Problemstellung orientierte sich dabei am CRISP-DM, welches ein Vorgehensmodell für die Systematische Bearbeitung von Data-Mining Projekte ist. 
 Mit erfolgreicher Analyse und Modellierung konnten schlussendlich die besten Ergebnisse mittels einer LSTM-CNN Architektur erreicht werden.<br>
 Der Mittleren Absolute Prozentualen Fehler (MAPE) des Modells auf den Testdaten und im Live-Betrieb Betrug 9%, zum Vergleich betrug der MAPE der Naiven-Prognose 23% und der, der vorher genutzten Prognose 20%.<br>
-<b>Da die Arbeit zum akutellen Zeitpunkt bewertet wird, ist sie noch nicht im Repository einsehbar
+<b>Da die Arbeit zum akutellen Zeitpunkt noch bewertet wird, ist sie noch nicht im Repository einsehbar.
 <br>
 
 <br>

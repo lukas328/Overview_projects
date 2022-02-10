@@ -1,0 +1,25 @@
+Anleitung 
+
+
+WICHTIG: 
+Da mit der NAK mail maximal 25mb verschickt werden konnten wurde, vereinzelt Ergebnisse wegelassen.
+Die Moodle Version ist VOLLSTÄNDIG
+
+
+Generelles: 
+
+Alle abgebenden Ordner dienen nur für die Sortierung der Dateien im Notebook...
+Sind also nicht weiter zu beachten, größtenteils sind in diesen Bilder oder die trainierten Modelle hinterlegt.
+
+
+Einbinden des WordEmbeddings: 
+
+Das Word Embedding ist wird nur benötigt sollte der Trainingsprozess wiederholt werden.
+Das Embedding wird mit folgenden Link gedownloadet:
+http://vectors.nlpl.eu/repository/20/45.zip
+
+Nachdem der Download erfolgreich abgeschlossen worden ist, müssen alle Daten welche sich im heruntergeladenen Ordern befinden in den folgenden Ordner verschoben werden: 
+07_Word_Embedding_V100
+
+
+Weitere Punkte sind nicht zu beachten und das Notebook sollte sich ohne Probleme ausführen lassen 

@@ -1,4 +1,0 @@
-Word Embeddings
- 
- 
-https://nlp.stanford.edu/projects/glove/
